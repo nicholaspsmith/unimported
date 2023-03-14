@@ -82,7 +82,7 @@ npx unimported --clear-cache
 
 ### Show Config
 
-Show the runtime config and then exists without running. The config displayed is a working copy created by merging arguments, your config file, and the applied preset.
+Show the runtime config and then exits without running. The config displayed is a working copy created by merging arguments, your config file, and the applied preset.
 
 ```shell
 npx unimported --show-config
